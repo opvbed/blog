@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import { FaGithub, FaTwitter, FaLinkedin } from 'react-icons/fa';
+import { FaGithub, FaTwitter, FaLinkedin, FaFacebook } from 'react-icons/fa';
 
 const Sidebar = () => {
   const categories = [
@@ -15,7 +15,7 @@ const Sidebar = () => {
       <div className="card text-center">
         <div className="relative w-32 h-32 mx-auto mb-4 rounded-full overflow-hidden">
           <Image
-            src="/profile-placeholder.jpg"
+            src="/obed1.jpg"
             alt="Profile"
             fill
             className="object-cover"
@@ -26,13 +26,13 @@ const Sidebar = () => {
           Web Developer | Crypto Investor | Tech Enthusiast
         </p>
         <div className="flex justify-center space-x-4">
-          <a href="#" className="text-gray-600 hover:text-blue-500">
-            <FaTwitter size={20} />
+          <a href="https://facebook.com/opvbed" className="text-gray-600 hover:text-blue-500">
+            <FaFacebook size={20} />
           </a>
-          <a href="#" className="text-gray-600 hover:text-blue-500">
+          <a href="https://github.com/opvbed" className="text-gray-600 hover:text-blue-500">
             <FaGithub size={20} />
           </a>
-          <a href="#" className="text-gray-600 hover:text-blue-500">
+          <a href="https://linkedin.com/in/opvbed" className="text-gray-600 hover:text-blue-500">
             <FaLinkedin size={20} />
           </a>
         </div>
