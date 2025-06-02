@@ -5,7 +5,7 @@ export default function AboutPage() {
       <div className="card">
         <div className="prose prose-slate max-w-none">
           <p className="mb-4">
-            Selamat datang di blog pribadi saya! Saya adalah seorang pengembang web yang
+            Selamat datang di blog pribadi saya! Saya Obed Pakpahan yang terpanggil sebagai seorang pengembang web yang
             bersemangat dalam menciptakan solusi digital yang inovatif dan bermanfaat.
           </p>
           <p className="mb-4">

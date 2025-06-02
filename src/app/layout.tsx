@@ -11,7 +11,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "My Blog | Personal Blog",
+  title: "Obed Pakpahan | Personal Blog",
   description: "Selamat datang di blog pribadi saya",
 };
 

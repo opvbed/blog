@@ -21,9 +21,9 @@ const Sidebar = () => {
             className="object-cover"
           />
         </div>
-        <h2 className="text-xl font-semibold mb-2">Nama Anda</h2>
+        <h2 className="text-xl font-semibold mb-2">Obed Pakpahan</h2>
         <p className="text-gray-600 mb-4">
-          Web Developer | Blogger | Tech Enthusiast
+          Web Developer | Crypto Investor | Tech Enthusiast
         </p>
         <div className="flex justify-center space-x-4">
           <a href="#" className="text-gray-600 hover:text-blue-500">

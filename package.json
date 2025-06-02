@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "@heroicons/react": "^2.2.0",
-    "@next/font": "^14.2.15",
     "date-fns": "^4.1.0",
     "next": "15.3.3",
     "react": "^19.0.0",
